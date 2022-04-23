@@ -1,0 +1,3 @@
+# Motorola-Academy
+
+I have got interested in programming a couple of months ago. I find it fascinating that with a few lines of code you can create a simple tool which makes everyday life easier. Now, I program just because I enjoy doing it. Hours of coding can pass unnoticed, and when a program works, it brings me lots of satisfaction. Every time I encounter a problem that is somehow difficult to solve, I try to find the best possible solution to it. I believe one can always find a way out of the situation, sometimes you just have to test a few possible options in order to figure out the best answer. I like challenges a lot and learning how to program brings me the opportunity to try myself. 
